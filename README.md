@@ -1,6 +1,6 @@
 ### Olá 👋! Sou o Lucas Lima
 
-- 🧑 Tenho 22 anos, curso Engenharia na Universidade Federal de Mato Grosso do Sul (UFMS).
+- 🧑 Tenho 23 anos, curso Engenharia na Universidade Federal de Mato Grosso do Sul (UFMS).
 - 🌱 Amo resolver desafios.
 - ❤️ Sou apaixonado por tecnologia.
 - 🏆 Gosto de trabalhar em equipe, aprender e ensinar coisas novas às pessoas.

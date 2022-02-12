@@ -7,7 +7,7 @@
 - ❤️ Sou apaixonado por tecnologia.
 - 🏆 Gosto de trabalhar em equipe, aprender e ensinar coisas novas às pessoas.
 - 👩🏻‍❤️‍💋‍👨🏻 Casado.
-- 🙋🏻 Faça o bem, você não sabe o quanto é gratificante ver que suas atitudes semeiam o bem!
+- 🙋🏻‍♂ Faça o bem, você não sabe o quanto é gratificante ver que suas atitudes semeiam o bem!
 
 
 <div align="center">

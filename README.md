@@ -4,6 +4,7 @@
 - 🌱 Amo resolver desafios.
 - ❤️ Sou apaixonado por tecnologia.
 - 🏆 Gosto de trabalhar em equipe, aprender e ensinar coisas novas às pessoas.
+- 👩🏻‍❤️‍💋‍👨🏻 Casado.
 
 <div align="center">
   <a href="https://github.com/Lucas-FLima">

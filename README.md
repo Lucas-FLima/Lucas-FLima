@@ -1,10 +1,14 @@
 ### Olá 👋! Sou o Lucas Lima
 
-- 🧑 Tenho 23 anos, curso Engenharia na Universidade Federal de Mato Grosso do Sul (UFMS).
+ - Atualmente estou em busca do meu primeiro emprego e aberto a oportunidades que me forem dadas. Desde já, tenho muito a oferecer com meus conhecimentos em programação e totalmente aberto para aprender e somar junto a empresa.
+
+- 👨🏻‍💻 Tenho 23 anos, curso Engenharia na Universidade Federal de Mato Grosso do Sul (UFMS).
 - 🌱 Amo resolver desafios.
 - ❤️ Sou apaixonado por tecnologia.
 - 🏆 Gosto de trabalhar em equipe, aprender e ensinar coisas novas às pessoas.
 - 👩🏻‍❤️‍💋‍👨🏻 Casado.
+- 🙋🏻 Faça o bem, você não sabe o quanto é gratificante ver que suas atitudes semeiam o bem!
+
 
 <div align="center">
   <a href="https://github.com/Lucas-FLima">

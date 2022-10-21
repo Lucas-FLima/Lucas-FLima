@@ -2,7 +2,7 @@
 
  - Atualmente estou em busca do meu primeiro emprego e aberto a oportunidades que me forem dadas. Desde já, tenho muito a oferecer com meus conhecimentos em programação e totalmente aberto para aprender e somar junto a empresa.
 
-- 👨🏻‍💻 Tenho 23 anos, curso Engenharia na Universidade Federal de Mato Grosso do Sul (UFMS).
+- 👨🏻‍💻 Tenho 23 anos, curso Engenharia de Software no Centro Universitário Internacional.
 - 🌱 Amo resolver desafios.
 - ❤️ Sou apaixonado por tecnologia.
 - 🏆 Gosto de trabalhar em equipe, aprender e ensinar coisas novas às pessoas.

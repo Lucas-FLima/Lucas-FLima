@@ -23,6 +23,7 @@
   <img align="center" alt="Lucas-Git" height="30" width="40" src="https://skills.thijs.gg/icons?i=ts" />
   <img align="center" alt="Lucas-Git" height="30" width="40" src="https://skills.thijs.gg/icons?i=mysql" />
   <img align="center" alt="Lucas-Git" height="30" width="40" src="https://skills.thijs.gg/icons?i=nodejs" />
+ <img align="center" alt="Lucas-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css" />
  <img align="center" alt="Lucas-Git" height="30" width="40" src="https://skills.thijs.gg/icons?i=tailwind" />
   <img align="center" alt="Lucas-Py" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img align="center" alt="Lucas-Xd" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" />

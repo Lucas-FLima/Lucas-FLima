@@ -1,13 +1,11 @@
 ### Olá 👋! Sou o Lucas Lima
 
- - Atualmente estou em busca do meu primeiro emprego e aberto a oportunidades que me forem dadas. Desde já, tenho muito a oferecer com meus conhecimentos em programação e totalmente aberto para aprender e somar junto a empresa.
+ - Atualmente trabalho como Freelancer e aberto a oportunidades que me forem dadas. Desde já, tenho muito a oferecer com meus conhecimentos em programação e totalmente aberto para aprender e somar junto a empresa.
 
-- 👨🏻‍💻 Tenho 23 anos, curso Engenharia de Software no Centro Universitário Internacional.
-- 🌱 Amo resolver desafios.
-- ❤️ Sou apaixonado por tecnologia.
-- 🏆 Gosto de trabalhar em equipe, aprender e ensinar coisas novas às pessoas.
-- 👩🏻‍❤️‍💋‍👨🏻 Casado.
-- 🙋🏻‍♂ Faça o bem, você não sabe o quanto é gratificante ver que suas atitudes semeiam o bem!
+- Tenho 24 anos, curso Engenharia de Software no Centro Universitário Internacional.
+- Amo resolver desafios.
+- Sou apaixonado por tecnologia.
+- Gosto de trabalhar em equipe, aprender e ensinar coisas novas às pessoas.
 
 
 <div align="center">
@@ -23,20 +21,27 @@
   
   <img align="center" alt="Lucas-Git" height="30" width="40" src="https://skills.thijs.gg/icons?i=ts" />
   <img align="center" alt="Lucas-Git" height="30" width="40" src="https://skills.thijs.gg/icons?i=mysql" />
- <img align="center" alt="Lucas-Git" height="30" width="40" src="https://skills.thijs.gg/icons?i=mongodb" />
+  <img align="center" alt="Lucas-Git" height="30" width="40" src="https://skills.thijs.gg/icons?i=mongodb" />
   <img align="center" alt="Lucas-Git" height="30" width="40" src="https://skills.thijs.gg/icons?i=nodejs" />
- <img align="center" alt="Lucas-Git" height="30" width="40" src="https://skills.thijs.gg/icons?i=express" />
- <img align="center" alt="Lucas-Git" height="30" width="40" src="https://skills.thijs.gg/icons?i=postman" />
- <img align="center" alt="Lucas-Git" height="30" width="40" src="https://skills.thijs.gg/icons?i=react" />
- <img align="center" alt="Lucas-Git" height="30" width="40" src="https://skills.thijs.gg/icons?i=electron" />
- <img align="center" alt="Lucas-Git" height="30" width="40" src="https://skills.thijs.gg/icons?i=tailwind" />
+  <img align="center" alt="Lucas-Git" height="30" width="40" src="https://skills.thijs.gg/icons?i=express" />
+  <img align="center" alt="Lucas-Git" height="30" width="40" src="https://skills.thijs.gg/icons?i=postman" />
+  <img align="center" alt="Lucas-Git" height="30" width="40" src="https://skills.thijs.gg/icons?i=react" />
+  <img align="center" alt="Lucas-Git" height="30" width="40" src="https://skills.thijs.gg/icons?i=electron" />
+  <img align="center" alt="Lucas-Git" height="30" width="40" src="https://skills.thijs.gg/icons?i=tailwind" />
   <img align="center" alt="Lucas-Py" height="30" width="40" src="https://skills.thijs.gg/icons?i=python" />
   <img align="center" alt="Lucas-Xd" height="30" width="40" src="https://skills.thijs.gg/icons?i=xd" />
   <img align="center" alt="Lucas-Ps" height="30" width="40" src="https://skills.thijs.gg/icons?i=ps" />
   <img align="center" alt="Lucas-Fig" height="30" width="40" src="https://skills.thijs.gg/icons?i=figma" />
   <img align="center" alt="Lucas-Git" height="30" width="40" src="https://skills.thijs.gg/icons?i=git" />
   
-  <svg align="center" alt="Rafa-Js" height="30" width="40" viewBox="0 0 128 128">
+ <h3>Atualmente estudando:</h3>
+ <img align="center" alt="Lucas-Git" height="30" width="40" src="https://skills.thijs.gg/icons?i=php" />
+ <img align="center" alt="Lucas-Git" height="30" width="40" src="https://skills.thijs.gg/icons?i=laravel" />
+ 
+ <h3>Lista de futuros estudos:</h3>
+ <img align="center" alt="Lucas-Git" height="30" width="40" src="https://skills.thijs.gg/icons?i=kotlin" />
+ <img align="center" alt="Lucas-Git" height="30" width="40" src="https://skills.thijs.gg/icons?i=swift" />
+ <img align="center" alt="Lucas-Git" height="30" width="40" src="https://skills.thijs.gg/icons?i=cs" />
 </div>
   
   <hr>

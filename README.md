@@ -1,6 +1,6 @@
 ### Olá 👋! Sou o Lucas Lima
 
-- Atualmente trabalho como Analista de Automação Júnior na Nelson Wilians Advogados. Sou voltado/orientado ao aprendizado constante e a resolução de problemas de maneira prática, simples e inteligente.
+- Atualmente trabalho como Analista de Automação Júnior na Nelson Wilians Advogados. Tenho foco no aprendizado contínuo e na solução de problemas de forma prática, eficiente e inteligente.
 
 - Tenho 25 anos, curso Engenharia de Software no Centro Universitário Internacional.
 - Gosto de trabalhar em equipe, aprender e ensinar coisas novas às pessoas sendo colaborativo com a equipe.

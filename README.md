@@ -1,11 +1,9 @@
 ### Olá 👋! Sou o Lucas Lima
 
- - Atualmente trabalho como Freelancer e aberto a oportunidades que me forem dadas. Desde já, tenho muito a oferecer com meus conhecimentos em programação e totalmente aberto para aprender e somar junto a empresa.
+- Atualmente trabalho como Analista de Automação Júnior na Nelson Wilians Advogados. Sou voltado/orientado ao aprendizado constante e a resolução de problemas de maneira prática, simples e inteligente.
 
-- Tenho 24 anos, curso Engenharia de Software no Centro Universitário Internacional.
-- Amo resolver desafios.
-- Sou apaixonado por tecnologia.
-- Gosto de trabalhar em equipe, aprender e ensinar coisas novas às pessoas.
+- Tenho 25 anos, curso Engenharia de Software no Centro Universitário Internacional.
+- Gosto de trabalhar em equipe, aprender e ensinar coisas novas às pessoas sendo colaborativo com a equipe.
 
 
 <div align="center">

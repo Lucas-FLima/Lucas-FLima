@@ -29,14 +29,14 @@
 ### Ferramentas de Desenvolvimento e IDEs
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,androidstudio,docker,firebase,postman,pycharm,vscode,npm,prisma,electron" />
+    <img src="https://skillicons.dev/icons?i=git,github,androidstudio,firebase,postman,pycharm,vscode,npm,prisma,electron" />
   </a>
 </p>
 
 ### Bancos de Dados
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,sqlite" />
+    <img src="https://skillicons.dev/icons?i=mysql,postgresql" />
     
   </a>
 </p>
@@ -63,10 +63,10 @@
   </a>
 </p>
 
-### Estudando AZ-900
+### Estudando Docker
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=azure" />
+    <img src="https://skillicons.dev/icons?i=docker" />
   </a>
 </p>
   

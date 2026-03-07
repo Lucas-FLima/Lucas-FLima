@@ -1,8 +1,9 @@
 ### Olá 👋! Sou o Lucas Lima
 
-- Atualmente trabalho como Analista de Automação na Nelson Wilians Advogados. Tenho foco no aprendizado contínuo e na solução de problemas de forma prática, eficiente e inteligente.
+- Atualmente trabalho como Analista de Automação no Grupo Pereira. Tenho foco no aprendizado contínuo e na solução de problemas de forma prática, eficiente e inteligente.
 
-- Tenho 26 anos, curso Engenharia de Software no Centro Universitário Internacional.
+- Tenho 27 anos, curso Engenharia de Software no Centro Universitário Internacional.
+- Experiência em Robotização de Processos e Engenharia de IA.
 - Gosto de trabalhar em equipe, aprender e ensinar coisas novas às pessoas sendo colaborativo com a equipe.
 
 

@@ -1,10 +1,12 @@
 ### Olá 👋! Sou o Lucas Lima
 
-- Atualmente trabalho como Analista de Automação no Grupo Pereira. Tenho foco no aprendizado contínuo e na solução de problemas de forma prática, eficiente e inteligente.
+- Analista de Automação no Grupo Pereira. Tenho foco no aprendizado contínuo e na solução de problemas de forma prática, eficiente e inteligente.
 
 - Tenho 27 anos, curso Engenharia de Software no Centro Universitário Internacional.
 - Experiência em Robotização de Processos e Engenharia de IA.
 - Gosto de trabalhar em equipe, aprender e ensinar coisas novas às pessoas sendo colaborativo com a equipe.
+
+
 
 
 <div align="center">
@@ -38,7 +40,6 @@
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=mysql,postgresql" />
-    
   </a>
 </p>
 
